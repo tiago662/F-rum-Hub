@@ -1,6 +1,6 @@
 package repository;
 
-import br.com.literatura.literalura.model.Autor;
+import model.Autor;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
 import java.util.List;
